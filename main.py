@@ -25,7 +25,7 @@ print(dir_list)
 document2 = open('ToPost//Usertags.txt')
 usertags_total = document2.read().split('\n')
 
-opening_message = "Meetup for charity, hosted by @gazeablaze\nModel:  "
+opening_message = "Meetup for charity, hosted by **********\nModel:  "
 hastags = "\n\n\n #models #dfw #nikon #nikond750 #addisontx #getmoney #portrait #portrait_perfection #portrait_ig #portrait_shots"
 
 """
